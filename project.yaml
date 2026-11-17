@@ -26,7 +26,7 @@ repositories:
 
 website: "https://www.tremor.rs/"
 
-artwork: "https://landscape.cncf.io/logos/tremor.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/tremor"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
